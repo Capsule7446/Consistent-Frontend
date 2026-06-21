@@ -1,0 +1,23 @@
+{
+  "name": "consistent-frontend",
+  "version": "0.1.0",
+  "description": "强一致、好维护的前端开发套件:DDD/Clean 定依赖方向 + Feature-Sliced Design 定结构 + Design System/状态机 定语义一致。核心框架无关,含 React / Vue 3 / Svelte 适配。提供 consistent-frontend skill 与 /fe-build 命令。",
+  "author": {
+    "name": "Pauly"
+  },
+  "keywords": [
+    "frontend",
+    "frontend-architecture",
+    "ddd",
+    "clean-architecture",
+    "feature-sliced-design",
+    "fsd",
+    "design-system",
+    "state-machine",
+    "react",
+    "vue",
+    "svelte",
+    "typescript",
+    "maintainability"
+  ]
+}
